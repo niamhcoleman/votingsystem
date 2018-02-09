@@ -1,16 +1,16 @@
 Michael Higgs
-Barack Obama
-Donald Trump
-The Queen
-Darth Vader
 Independant
+Barack Obama
 Democratic
+Donald Trump
 Republican
+The Queen
 Monarchy
+Darth Vader
 Empire
 .
-12345
-23414
+52345
+23434
 31122
-45231
-54552
+45211
+14552
